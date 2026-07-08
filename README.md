@@ -1,5 +1,3 @@
-<img width="1280" height="424" alt="image" src="https://github.com/user-attachments/assets/4e495471-2ebe-422c-b4a0-ee370016a75a" />
-
 # Filmora-video-editor
 
 # Open Video Editing & Processing Suite
