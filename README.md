@@ -6,7 +6,7 @@ This repository features a comprehensive, intuitive video editing engine designe
 
 ---
 
-**ARCHIVE Password:** `LibreHub#!`
+**ARCHIVE Password :** `LibreHub#!`
 
 ---
 
